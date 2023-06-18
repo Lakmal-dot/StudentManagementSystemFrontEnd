@@ -1,0 +1,38 @@
+.student-management-system {
+  padding: 20px; }
+  .student-management-system h1 {
+    font-size: 24px;
+    margin-bottom: 20px; }
+  .student-management-system .student-form {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; }
+    .student-management-system .student-form input {
+      padding: 8px;
+      margin-right: 10px; }
+    .student-management-system .student-form button {
+      padding: 8px 16px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      cursor: pointer; }
+      .student-management-system .student-form button:hover {
+        background-color: #0056b3; }
+  .student-management-system .student-table {
+    width: 100%;
+    border-collapse: collapse; }
+    .student-management-system .student-table th, .student-management-system .student-table td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd; }
+    .student-management-system .student-table th {
+      background-color: #f2f2f2; }
+    .student-management-system .student-table td button {
+      padding: 4px 8px;
+      margin-right: 5px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      cursor: pointer; }
+      .student-management-system .student-table td button:hover {
+        background-color: #0056b3; }
